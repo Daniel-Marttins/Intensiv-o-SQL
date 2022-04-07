@@ -1,0 +1,5 @@
+SOBRE SQL:
+
+- Nunca esquecer de especificar o banco de dados que vai usar.
+- Ultilizar o comando where para filtrar e fazer uma analise detalhada de uma tabela de dados.
+- 
